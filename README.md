@@ -11,9 +11,11 @@ steganography hence can be chosen by the user here based on the level of confide
 of the data to be sent. Hence, we aim to also provide versatility.
 
 Objective:
+
 To create a model that performs Text, Image, Audio and Video Steganography to increase the accuracy and security of data transfer.
 
 Workflow:
+
 Steganography hides the very existence of a message so that if successful it generally
 attracts no suspicion at all. Using steganography, information can be hidden in carriers
 such as images, audio files, text files, videos and data transmissions. In our project, we
